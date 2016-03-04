@@ -1,0 +1,6 @@
+{:id=>1, :stud_name=>"Rajnandini", :stud_class=>"A"}
+{:id=>2, :stud_name=>"Swati", :stud_class=>"A"}
+{:id=>3, :stud_name=>"Manoj", :stud_class=>"A"}
+{:id=>4, :stud_name=>"Anish", :stud_class=>"A"}
+{:id=>5, :stud_name=>"Amrita", :stud_class=>"B"}
+{:id=>6, :stud_name=>"Geeta", :stud_class=>"B"}

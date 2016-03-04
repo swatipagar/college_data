@@ -1,0 +1,9 @@
+{:id=>1, :sub_name=>"Software Architecture"}
+{:id=>2, :sub_name=>"Multimedia Systems"}
+{:id=>3, :sub_name=>"Advanced Databases"}
+{:id=>4, :sub_name=>"Information Security"}
+{:id=>5, :sub_name=>"Design and Analysis of Algorithms"}
+{:id=>6, :sub_name=>"Principles of Compiler Design"}
+{:id=>7, :sub_name=>"Object Oriented Modeling and Design"}
+{:id=>8, :sub_name=>"Distributed Operating Systems"}
+{:id=>9, :sub_name=>"Advanced Computer Architecture"}

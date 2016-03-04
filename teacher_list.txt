@@ -1,0 +1,1 @@
+{:id=>1, :teach_name=>"Bhavna Khivtsara", :teach_class=>"A", :teach_sub=>"DBMS"}
